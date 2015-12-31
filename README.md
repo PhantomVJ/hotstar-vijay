@@ -1,3 +1,4 @@
 # hotstar-vijay
 Branch for viewing Star Vijay content from hotstar.com
-Test new plugin
+
+Intent is to show all Vijay TV serials
